@@ -1,2 +1,2 @@
-# sample_repo
+# Sample
 Sample repo for Gitpod video
